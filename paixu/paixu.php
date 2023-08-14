@@ -1,6 +1,6 @@
 <?php
 $arr = [5,1,2,4,3,88,85,87];
-
+//11
 function mp($data){
     $len =  count($data);
     for($i=0;$i<$len;$i++){
