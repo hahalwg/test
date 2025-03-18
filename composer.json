@@ -2,7 +2,7 @@
     "name": "test/first",
     "autoload": {
         "psr-4": {
-            "Test\\First\\": "test/first/src/"
+            "Test\\First\\": "src/"
         }
     },
     "require": {
