@@ -1,0 +1,11 @@
+{
+    "name": "test/first",
+    "autoload": {
+        "psr-4": {
+            "Test\\First\\": "test/src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
